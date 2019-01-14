@@ -1,0 +1,18 @@
+video_mode 640 480 8
+windowed 0
+force_32 1
+go_easy 0
+sound 1
+sound_volume 256
+music_volume 256
+mix_buffer_size 1024
+windib 0
+garden_index 0
+level_locking 0
+fast_movement 0
+instant_movement 0
+first_level_ever 1
+monk_colour 0
+skip_sand_animation 0
+contrast_mode 0
+path 
